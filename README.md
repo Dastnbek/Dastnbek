@@ -19,3 +19,12 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dastnbek&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dastnbek&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[website]: https://mcard.uz
+[twitter]: https://twitter.com/MShermamatov
+[linkedin]: https://www.linkedin.com/in/mukhammadsher-shermamatov/
+[instagram]: https://www.instagram.com/dj_usher/
+[vscode]: https://code.visualstudio.com/
+[react]: https://reactjs.org/
+[nodejs]: https://nodejs.org/
+[git]: https://git-scm.com/
+[github]: https://github.com
